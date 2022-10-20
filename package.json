@@ -15,5 +15,8 @@
     "sass"
   ],
   "author": "\"Sjur Hassel <sjur.hassel@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
 }
