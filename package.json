@@ -1,0 +1,19 @@
+{
+  "name": "test-environment-bootstrap-sass",
+  "version": "0.0.1",
+  "description": "test envirionment setup at Noroff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass src/scss:dist/css",
+    "watch": "sass --watch src/scss:dist/css & live-server"
+  },
+  "keywords": [
+    "test",
+    "environment",
+    "bootstrap",
+    "sass"
+  ],
+  "author": "\"Sjur Hassel <sjur.hassel@gmail.com>",
+  "license": "ISC"
+}
